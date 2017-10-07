@@ -1,0 +1,48 @@
+{
+  "_from": "star-pattern",
+  "_id": "star-pattern@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-pm5vjHNxVhsc/t9MFqHQ4mJ2Dsru1lR6OeP8nQuY1yy7EM6OZyZqrkik+0b98+ovU2tyG4ql1TYwtbRM0vS/0w==",
+  "_location": "/star-pattern",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "star-pattern",
+    "name": "star-pattern",
+    "escapedName": "star-pattern",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/star-pattern/-/star-pattern-1.1.1.tgz",
+  "_shasum": "15ac328ad3c851885a8af15d6f07dce87eb0ebff",
+  "_spec": "star-pattern",
+  "_where": "D:\\DailyJS\\starPattern\\star-pattern",
+  "author": {
+    "name": "Harish Mahajan"
+  },
+  "bin": {
+    "star-pattern": "./bin.js"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Hello World NPM example",
+  "homepage": "https://github.com/rms1000watt/star-pattern#readme",
+  "keywords": [
+    "hello test",
+    "test world",
+    "hello-tset-world"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "star-pattern",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
+}
