@@ -30,7 +30,7 @@
   },
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "Hello World NPM example",
+  "description": "Stars will be displayed",
   "homepage": "https://github.com/harishmahajan/star-pattern/blob/master/Readme.md",
   "keywords": [
     "star",
@@ -46,5 +46,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.1.2"
+  "version": "1.1.3"
 }
