@@ -1,6 +1,6 @@
 {
   "_from": "star-pattern",
-  "_id": "star-pattern@1.1.1",
+  "_id": "star-pattern@1.1.2",
   "_inBundle": false,
   "_integrity": "sha512-pm5vjHNxVhsc/t9MFqHQ4mJ2Dsru1lR6OeP8nQuY1yy7EM6OZyZqrkik+0b98+ovU2tyG4ql1TYwtbRM0vS/0w==",
   "_location": "/star-pattern",
@@ -19,7 +19,6 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/star-pattern/-/star-pattern-1.1.1.tgz",
   "_shasum": "15ac328ad3c851885a8af15d6f07dce87eb0ebff",
   "_spec": "star-pattern",
   "_where": "D:\\DailyJS\\starPattern\\star-pattern",
@@ -32,11 +31,14 @@
   "bundleDependencies": false,
   "deprecated": false,
   "description": "Hello World NPM example",
-  "homepage": "https://github.com/rms1000watt/star-pattern#readme",
+  "homepage": "https://github.com/harishmahajan/star-pattern/blob/master/Readme.md",
   "keywords": [
-    "hello test",
-    "test world",
-    "hello-tset-world"
+    "star",
+    "stars",
+    "star pattern",
+    "star-pattern",
+    "star-triangle",
+    "triangle"
   ],
   "license": "MIT",
   "main": "lib/index.js",
@@ -44,5 +46,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.1.1"
+  "version": "1.1.2"
 }
